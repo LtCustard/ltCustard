@@ -1,4 +1,4 @@
-### Hi there 👋
+### I've been learning python since 2020. I have made a discord bot which is my largest project yet. Source code is private.
 
 <!--
 **LtCustard/ltCustard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
